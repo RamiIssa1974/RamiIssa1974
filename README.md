@@ -1,7 +1,7 @@
 # 💼 Rami Issa – Developer Portfolio
 
 Welcome! I'm a Full Stack .NET Developer with a passion for building scalable web applications using .NET Core, React, Angular, and SQL Server. Below are some of the real-world projects I've built or contributed to.
-My website : [http://creativehandsco.com/Rami/RamiIssa.html](Rami Issa Blog)
+[**Rami Issa Blog**](http://creativehandsco.com/Rami/RamiIssa.html)
 ---
 
 ## 🛍️ Creative Hands – E-Commerce Platform (React + .NET Core)
