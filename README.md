@@ -9,7 +9,7 @@ Welcome! I'm a Full Stack .NET Developer with a passion for building scalable we
 **🔗 Live demo:** [react.creativehandsco.com](http://react.creativehandsco.com/)  
 **🖼️ Screenshot:**  
 ![Creative Hands Screenshot](./aaebc995-cd79-4ee1-95bd-c8a955fce71f.png)  
-**🧰 Tech Stack:** React, .NET Core Web API, SQL Server, JWT Auth, REST  
+**🧰 Tech Stack:** Nexts.JS, .NET Core Web API, SQL Server, JWT Auth, REST  
 **💡 Description:**  
 A full e-commerce platform for educational and art supplies. Includes product categories, cart, admin panel, and Graph API integration for user management.
 
