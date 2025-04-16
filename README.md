@@ -60,10 +60,10 @@ This system was developed to allow schools to register students and manage their
 
 <h3>📸 Screenshots:</h3>
 
-<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/LoginPage.jpg" width="300" height="250" alt="Login Page">
-<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/Registe1.jpg" width="300" height="250" alt="Register Page">
-<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/RejectPage.jpg" width="300" height="250" alt="Reject Page">
-<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/FinishPage.jpg" width="300" height="250" alt="Finish Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/LoginPage.jpg" width="620" height="320" alt="Login Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/Registe1.jpg" width="620" height="320" alt="Register Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/RejectPage.jpg" width="620" height="320" alt="Reject Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/FinishPage.jpg" width="620" height="320" alt="Finish Page">
 
 
 **🔗 GitHub Repo:**  
