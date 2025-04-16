@@ -4,7 +4,7 @@ Welcome! I'm a Full Stack .NET Developer with a passion for building scalable we
 [**Rami Issa Blog**](http://creativehandsco.com/Rami/RamiIssa.html)
 ---
 
-## 🛍️ Creative Hands – E-Commerce Platform (React + .NET Core)
+## 🛍️ Creative Hands – E-Commerce Platform (NextJs + .NET Core)
 
 **🔗 Live demo:** [react.creativehandsco.com](http://react.creativehandsco.com/)  
 **🖼️ Screenshot:**  
@@ -17,6 +17,13 @@ A full e-commerce platform for educational and art supplies. Includes product ca
 - Built the entire backend in .NET Core with authentication and product APIs  
 - Developed React frontend with product filtering, cart handling, and RTL Arabic support  
 - Designed database structure and optimized queries
+
+<h3>📸 Screenshots:</h3>
+
+<img src="https://raw.githubusercontent.com/RamiIssa1974/CreativeHandsNew/tree/master/ScreenShots/React/HomePage.jpg" width="620" height="320" alt="Login Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/CreativeHandsNew/tree/master/ScreenShots/React/CateggoryPage.jpg" width="620" height="320" alt="Register Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/CreativeHandsNew/tree/master/ScreenShots/React/ProductsManagement.jpg" width="620" height="320" alt="Reject Page">
+<img src="https://raw.githubusercontent.com/RamiIssa1974/CreativeHandsNew/tree/master/ScreenShots/React/EditProduct.jpg" width="620" height="320" alt="Finish Page">
 
 ---
 
