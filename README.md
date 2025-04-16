@@ -58,11 +58,12 @@ This system was developed to allow schools to register students and manage their
 - Handled security: hashed passwords, role-based authorization
 - Deployed the solution on Windows Server and performed end-to-end QA
 
-**📸 Screenshots:**  
-![School Form - Login Page](https://github.com/RamiIssa1974/KQMunicipality/tree/master/ScreenShots/LoginPage.jpg)
-![School Form - Register Page](https://github.com/RamiIssa1974/KQMunicipality/tree/master/ScreenShots/Registe1.jpg)
-![School Form - Reject Page](https://github.com/RamiIssa1974/KQMunicipality/tree/master/ScreenShots/RejectPage.jpg)
-![School Form - Finish Page](https://github.com/RamiIssa1974/KQMunicipality/tree/master/ScreenShots/FinishPage.jpg)
+**📸 Screenshots:**
+
+![School Form - Login Page](https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/LoginPage.jpg)
+![School Form - Register Page](https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/Registe1.jpg)
+![School Form - Reject Page](https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/RejectPage.jpg)
+![School Form - Finish Page](https://raw.githubusercontent.com/RamiIssa1974/KQMunicipality/master/ScreenShots/FinishPage.jpg)
 
 **🔗 GitHub Repo:**  
 [View on GitHub](https://github.com/RamiIssa1974/KQMunicipality) ← (Replace with actual repo link if public)
